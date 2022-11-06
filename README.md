@@ -12,7 +12,7 @@ from voice recognition (using the MIC button).
 ________________________________________________________________________________
 
 Info:
-- You can use addition (+), multiplication (*), division (/), integer division (//), exponents (**), and square root [sqrt(#) or (#)**(0.5)]. Paranteses are also supported to format your expression (, ).
+- You can use addition (+), multiplication (*), division (/), integer division (//), exponents (**), and square root [sqrt(num) or (num)**(0.5)]. Paranteses are also supported to format your expression (, ).
 
 - Calculator automatically uses BEDMAS.
 
