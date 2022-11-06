@@ -12,7 +12,11 @@ from voice recognition (using the MIC button).
 ________________________________________________________________________________
 
 Info:
-- You can manually change the equation you spoke via voice recogntion (MIC), by clicking at the input region of the calculator, and then using keyboard or button to change the format, number or operators.
+- You can use addition (+), multiplication (*), division (/), integer division (//), exponents (**), and square root (sqrt or **(0.5)). Paranteses are also supported to format your expression (, ).
+
+- Calculator automatically uses BEDMAS.
+
+- You can manually change the expression you spoke via voice recogntion (MIC), by clicking at the input region of the calculator, and then using keyboard or button to change the format, number or operators.
 
 - Square root command can be off in the format sometimes, for example if you say "Square root one-hundred  plus one" it will be recognized as sqrt(100 + 1) 
   or (100 + 1)**(0.5). Edit the input to ensure it is right for you.
