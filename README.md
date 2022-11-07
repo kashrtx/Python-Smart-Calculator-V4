@@ -22,4 +22,4 @@ General Info:
   or (100 + 1)**(0.5). Edit the input to ensure it is right for you.
 
 Installation:
-- Go to the release tab of this repository, then click the latest release, then download the .exe file. When you run it, windows smart screen will block it, (because it doesn't know me yet as a developer), allow the app to open. Now you have my calculator app installed, enjoy!
+- Go to the release tab of this repository, then click the latest release, then download the .exe file. When you run it, windows smart screen will block it (it doesn't know me yet as a verified developer), press open anways during the prompt. Now you have my calculator app installed, enjoy!
