@@ -11,7 +11,7 @@ the GUI  buttons, keyboard input (click the box where the numbers output), and
 from voice recognition (using the MIC button). 
 ________________________________________________________________________________
 
-Info:
+General Info:
 - You can use addition (+), multiplication (*), division (/), integer division (//), exponents (**), and square root [sqrt(#) or (#) ** (0.5)]. Paranteses are also supported to format your expression (, ).
 
 - Calculator automatically uses BEDMAS.
@@ -20,3 +20,6 @@ Info:
 
 - Square root command can be off in the format sometimes, for example if you say "Square root one-hundred  plus one" it will be recognized as sqrt(100 + 1) 
   or (100 + 1)**(0.5). Edit the input to ensure it is right for you.
+
+Installation:
+- Go to the release tab of this repository, then click the latest release, then download the .exe file. When you run it, windows smart screen will block it, (because it doesn't know me yet as a developer), allow the app to open. Now you have my calculator app installed, enjoy!
